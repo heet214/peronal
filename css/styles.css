@@ -1,0 +1,85 @@
+h1{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 4.5rem;
+  margin-top: 50px;
+}
+p{
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  color: #000839  ;
+  font-weight: bold;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffa41b  ;
+ font-size: 1.30rem;
+}
+
+.pro{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.top{
+  background-color: #000839;
+  margin-top: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle{
+    background-color: #d4f3ef;
+}
+
+.bottom{
+  background-color: #d4f3ef;
+}
+
+.topcloud{
+  position:absolute;
+  right: 300px;
+  top:-30px;
+}
+
+.bottomcloud{
+  position:absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.ccode{
+  border-radius: 25%;
+  background-color: #ffa41b;
+  width: 27%;
+  float: left;
+  margin: 50px 30px 30px auto;
+}
+.ccode:hover{
+  background-color: #000839;
+}
+.chack{
+  border-radius: 15%;
+  background-color: #ffa41b;
+  width: 27%;
+  float: right;
+  margin: 50px auto 30px 30px;
+}
+.chack:hover{
+  background-color: #000839;
+}
+h2,h3{
+  color: #00a8cc;
+  text-align: center;
+}
+.cpro{
+  width:20%
+}
